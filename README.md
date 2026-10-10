@@ -11,7 +11,7 @@
   <br><br>
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=667eea" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=khushiahirwar12&style=for-the-badge&color=667eea" alt="Profile views"/>
 
 </div>
 
