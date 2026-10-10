@@ -1,16 +1,15 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hey%20I'm%20Khushi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20-%20Java%20%26%20DSA&descAlignY=55&descSize=16" width="100%"/>
+
+  <h1>Khushi Ahirwar</h1>
+  <h3>Aspiring Software Engineer | Java & DSA | Full-Stack Developer</h3>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=B.Tech+Student+at+IET+DAVV%2C+Indore;Learning+Java+%26+DSA;Exploring+Full-Stack+Development;Building+real-world+projects;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=B.Tech+Student+at+IET+DAVV%2C+Indore;Learning+Java+%2B+DSA+Seriously;Exploring+Full-Stack+Development;Building+real-world+projects;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
   </a>
 
   <br><br>
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=khushiahirwar12&style=for-the-badge&color=667eea" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=khushiahirwar12&style=for-the-badge&color=3B82F6" alt="Profile views"/>
 
 </div>
 
@@ -18,35 +17,36 @@
 
 ### 👩‍💻 About Me
 
-Hi! I'm **Khushi**, a B.Tech student at **IET DAVV, Indore** 🇮🇳.  
-I'm passionate about learning programming, solving problems, and building useful digital products.
+Hi, I'm **Khushi Ahirwar** — a B.Tech student at **IET DAVV, Indore** 🇮🇳.  
 
-Currently focused on strengthening my **Java + DSA** fundamentals while exploring **full-stack development**. My goal is to become a skilled software engineer by consistently learning, practicing, and shipping real projects.
+I'm focused on building strong fundamentals in **Java** and **Data Structures & Algorithms**, while exploring full-stack development. I enjoy solving problems and turning ideas into working projects.
+
+Currently preparing for software engineering internships and placements.
 
 ---
 
-### 🌱 What I'm Working On
+### 🌱 Currently Working On
 
-- ☕ Deepening **Java** and **Object-Oriented Programming**
-- 🧠 Solving **Data Structures & Algorithms** problems regularly
-- 💻 Exploring **HTML, CSS & JavaScript**
-- 🗄️ Learning **SQL** and database fundamentals
-- 🚀 Moving towards **Backend Development** with **Spring Boot**
-- 🎯 Preparing for **Software Engineering Internships & Placements**
+- Deepening **Java** + **Object-Oriented Programming**
+- Solving **DSA** problems regularly
+- Learning **HTML, CSS & JavaScript**
+- Exploring **SQL** and database concepts
+- Moving towards **Spring Boot** for backend
+- Preparing for **Internships & Campus Placements**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -54,39 +54,43 @@ Currently focused on strengthening my **Java + DSA** fundamentals while explorin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=khushiahirwar12&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiahirwar12&layout=compact&theme=tokyonight&hide_border=true&hide_title=true"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushiahirwar12&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-### 🎯 My Goals
+### 🐍 Contribution Snake
 
-- 📚 Build rock-solid programming fundamentals  
-- 🧩 Improve problem-solving and logical thinking  
-- 🏗️ Create projects that solve real-world problems  
-- 🌐 Become proficient in **Full-Stack Development**  
-- 💼 Land a good **Software Engineering Internship / Placement**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khushiahirwar12/khushiahirwar12/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
 
 ---
 
-### ✨ A Little About Me
+### 🎯 Goals
 
-Learning step by step, coding every day, and building my future **one commit at a time**. 💜
+- Build strong programming fundamentals
+- Improve problem-solving ability through consistent DSA practice
+- Create meaningful real-world projects
+- Become proficient in Full-Stack Development
+- Secure a good Software Engineering Internship / Placement
+
+---
+
+### ✨ A Little Note
+
+Learning step by step, coding every day, and building my future **one commit at a time**.
 
 ---
 
 <div align="center">
-  
-  **Thanks for visiting my profile!** ⭐  
-  Feel free to explore my repositories and connect!
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
-  
+  <b>Thanks for visiting!</b> ⭐  
+  Feel free to explore my repositories.
 </div>
