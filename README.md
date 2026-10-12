@@ -6,12 +6,12 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=B.Tech+Student+at+IET+DAVV%2C+Indore;Learning+Java+%2B+DSA+Seriously;Exploring+Full-Stack+Development;Building+real-world+projects;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=B.Tech+Student+at+IET+DAVV%2C+Indore;Learning+Java+%2B+DSA+;Exploring+Full-Stack+Development;Building+real-world+projects;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
   </a>
 
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=khushiahirwar12&style=for-the-badge&color=3B82F6" alt="Profile views"/>
-
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=khushiahirwar12&label=PROFILE%20VIEWS&countColor=%232563eb&style=flat" alt="Profile Views" />
+</p>
 </div>
 
 ---
