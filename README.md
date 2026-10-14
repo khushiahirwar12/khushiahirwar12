@@ -56,7 +56,7 @@ Currently preparing for software engineering internships and placements.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=khushiahirwar12&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiahirwar12&layout=compact&theme=tokyonight&hide_border=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiahirwar12&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 </div>
 
 <br>
